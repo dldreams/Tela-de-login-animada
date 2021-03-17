@@ -1,16 +1,37 @@
-# login_teddy
+<h1 align="center">
+  Tela de login animada com o Teddy 🐻
+</h1>
 
-A new Flutter project.
+<h2 align="center">
+  <img src="./examples/example.gif" height="400" />
+</h2>
 
-## Getting Started
+<br />
 
-This project is a starting point for a Flutter application.
+## Packages usados
 
-A few resources to get you started if this is your first Flutter project:
+- ✨flare_flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Como rodar
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Primeiro clone o repositorio:
+
+```bash
+git clone https://github.com/KauaLimaMartins/Teddy-Animated-Login-UI.git
+```
+
+<br />
+
+2. No diretorio do repositorio clonado rode o comando:
+
+```bash
+flutter pub get
+```
+
+<br />
+
+3. E por ultimo:
+
+```bash
+flutter run
+```
