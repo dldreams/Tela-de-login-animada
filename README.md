@@ -17,7 +17,7 @@
 1. Primeiro clone o repositorio:
 
 ```bash
-git clone https://github.com/KauaLimaMartins/Teddy-Animated-Login-UI.git
+git clone https://github.com/dldreams/Tela-de-login-animada.git
 ```
 
 <br />
